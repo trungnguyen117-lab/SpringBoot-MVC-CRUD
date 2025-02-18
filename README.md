@@ -1,4 +1,6 @@
 # SpringBoot-MVC-CRUD
+## Mã sinh viên: 22024553
+## Họ và tên sinh viên: Nguyễn Trung Nguyên
 >CRUD là viết tắt của Create (Tạo), Read/Retrieve (Đọc/Lấy dữ liệu), Update (Cập nhật) và Delete (Xóa). Đây là bốn thao tác cơ bản để xây dựng bất kỳ loại dự án nào.
 
 Spring MVC là một Web MVC Framework dùng để phát triển ứng dụng web. Nó là một module của Spring, tương tự như Spring Boot, Spring Security, v.v.
